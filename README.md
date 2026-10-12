@@ -1,3 +1,8 @@
+![Language](https://img.shields.io/badge/Language-Julia_1.10+-9558B2.svg)
+![Domain](https://img.shields.io/badge/Domain-Numerical_Analysis_%7C_PDEs-blue.svg)
+![Packages](https://img.shields.io/badge/Packages-SparseArrays_%7C_Plots-orange.svg)
+![Status](https://img.shields.io/badge/Status-Completed_%7C_Optimized-success.svg)
+
 # 2D Laplace Equation Solver with Mixed Boundary Conditions
 
 A robust, high-performance numerical solver based on the Finite Difference Method (FDM) implemented in Julia for the 2D Laplace equation ($\Delta u = 0$) on a unit square domain $\Omega = (0,1)^2$. 
